@@ -1,0 +1,66 @@
+0, 2
+This is the main view, which shows the
+user all the modules and assessments in
+a treeview and allows the user to create/delete
+modules and assessments and edit settings
+
+2, 5
+Upon clicking add module, the user will be asked whether
+to create a module manually or import one from a text file
+
+5.1, 13
+On choosing to import or manually create a module the user
+is shown the module details form which contains all the 
+module information, and allows the user to edit as they see
+fit. The form also allows the user to create assessments and
+notes for the module
+
+13.4, 46
+If the user imported a module from a file and the file contained
+assessments then the user will be prompted to add these assessments
+to the module using the assessments details form, which allows the user
+to create the assessment, and add any notes to the assessment.
+
+47, 1:39
+Clicking add will open the note details form which will allow the user
+to create a note with images and links, which if you click will open
+the image in its full size, or if it was a link then open in the computers
+default program
+
+1:53, 1:57
+If there are still assessments in the queue to be added then the user will
+be prompted to abandon them upon clicking the save button
+
+2:00, 2:15
+The user can double click on the modules or assessments in the treeview to
+open up their details and edit if necessary
+
+2:37, 2:47
+Notes can be created for both modules and assessments, allowing the user
+to have notes for both a module and its assessments at the same time.
+
+2:53, 2:58
+On choosing to create an assessment the user will be prompted to add either
+an assignment, or a test
+
+3:09, 3:22
+The user can choose to view all assessments in the assessments treeview, or
+choose to just view the upcoming ones, which are shown with the amount days
+til their due date
+
+3:34, 3:40
+The upcoming assessments can also be sorted by due date, to show which ones 
+are due in less days
+
+3:43, 3:56
+The user can choose to select any of the assessments/modules and delete them
+and their notes/assessments
+
+3:57, 4:03
+On clicking the settings button the user will be shown the settings form
+allowing them to choose whether to autoload modules on startup and which
+modules to load.
+
+4:06, 4:27
+The user can also choose to manually save or load the settings and modules
+and then they will be loaded on startup if autoloading is enabled

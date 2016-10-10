@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="ModNote.Module" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAAAQAAAAEQggAggABAIIAAQAIAAAEiAAABAIAA=</HashCode>
+      <FileName>Module.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ModNote.Note" BaseTypeListCollapsed="true">
+    <Position X="11" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEQggAAAAAAAEAAIABAICAIACAAAIAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ModNote.Assignment" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAAAAEQhhAAAAAAAAAAAAABJAAgACQAAIAk=</HashCode>
+      <FileName>Assessment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ModNote.Test" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAQAACAERggBAAQAAQAAAAAAAJAAgACQAAIAg=</HashCode>
+      <FileName>Assessment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="ModNote.IModule">
+    <Position X="0.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAAAAAAAAEAgAAAgAAAIAAAQAIAAAAgAAABAAAA=</HashCode>
+      <FileName>Module.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModNote.INote">
+    <Position X="11" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAgAAAAAAAAAAAAABAACAIACAAAIAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModNote.IAssessment">
+    <Position X="6" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAEAAAAAAAAAAAAAAAAABAAgACAAAAAA=</HashCode>
+      <FileName>Assessment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModNote.IAssignment">
+    <Position X="8.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAhBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assessment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ModNote.ITest">
+    <Position X="3.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAgABAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assessment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
